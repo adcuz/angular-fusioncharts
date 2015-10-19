@@ -1,5 +1,5 @@
 {
-  "name": "angular-fusioncharts",
+  "name": "fc-angular-fusioncharts",
   "version": "3.1",
   "description": "Angular plugin for FusionCharts",
   "main": "src/angular-fusioncharts",
